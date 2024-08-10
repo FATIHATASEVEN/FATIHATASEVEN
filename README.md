@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.basamak.com.tr%2Fblog%2Fyazilim-nedir.html&psig=AOvVaw2QK84yiRIupnMoqvG5DQhr&ust=1723391288123000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCc1v3i6ocDFQAAAAAdAAAAABAE)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.basamak.com.tr%2Fblog%2Fyazilim-nedir.html&psig=AOvVaw2QK84yiRIupnMoqvG5DQhr&ust=1723391288123000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCc1v3i6ocDFQAAAAAdAAAAABAE]
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A software developer who aims to improve himself</h3>
 
