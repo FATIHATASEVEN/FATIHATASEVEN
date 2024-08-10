@@ -1,4 +1,4 @@
-[![MasterHead]([https://static8.depositphotos.com/1211400/875/i/600/depositphotos_8755878-stock-photo-source-code.jpg]
+
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A software developer who aims to improve himself</h3>
 
