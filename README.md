@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A software developer who aims to improve himself</h3>
 
+- 🌱 I’m currently learning **flutter**
+
+- 💬 Ask me about **unity**
+
 - 📫 How to reach me **fatihhataseven@gmail.com**
+
+- ⚡ Fun fact **I am a dreamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihataseven&show_icons=true&locale=en" alt="fatihataseven" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihataseven&" alt="fatihataseven" /></p>
-
-
-![snake gif](https://github.com/FATIHATASEVEN/FATIHATASEVEN/blob/output/github-contribution-grid-snake.gif)
